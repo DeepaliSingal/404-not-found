@@ -1,7 +1,7 @@
 # web-development
 <!-- Please update value in the {}  -->
 
-<h1 align="center">404 nor found</h1>
+<h1 align="center">404 not found</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -45,7 +45,7 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
   - <a href="https://user-images.githubusercontent.com/72861787/123385319-071aef00-d5b3-11eb-8709-7dc6e9f87154.png">
       desktop view
     </a>
-    <a href="https://user-images.githubusercontent.com/72861787/123386894-c328e980-d5b4-11eb-96e3-4a3d750d8a31.png">
+  - <a href="https://user-images.githubusercontent.com/72861787/123386894-c328e980-d5b4-11eb-96e3-4a3d750d8a31.png">
       mobile view
     </a>
 - What was your experience?
