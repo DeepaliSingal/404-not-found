@@ -78,6 +78,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 - [Marked - a markdown parser](https://github.com/chjj/marked)
 
 ## Contact
-- GitHub [@deepali2002-max](https://{github.com/deepali2002-max})
-- Twitter [@Deepali89938601](https://{twitter.com/Deepali89938601})
+- GitHub [@deepali2002-max](https://github.com/deepali2002-max)
+- Twitter [@Deepali89938601](https://twitter.com/Deepali89938601?s=08)
 
